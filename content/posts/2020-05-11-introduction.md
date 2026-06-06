@@ -14,7 +14,7 @@ Hi there!
 Documenting things that interest me.
 
 ## Twitter
-[My Twitter Bio](https://twitter.com/siddugan/)
+[My Twitter Bio](https://twitter.com/lordulabakudas/)
 
 ## Photo
 Timestamp: August 24, 2013
