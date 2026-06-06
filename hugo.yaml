@@ -1,0 +1,50 @@
+baseURL: "https://lordlabakdas.github.io/"
+title: "Siddharth Gangadhar"
+theme: "PaperMod"
+languageCode: "en-us"
+pagination:
+  pagerSize: 5
+enableRobotsTXT: true
+buildDrafts: false
+
+params:
+  env: production
+  description: ""
+  author: "Siddharth Gangadhar"
+
+  profileMode:
+    enabled: true
+    title: "Siddharth Gangadhar"
+    subtitle: ""
+
+  socialIcons:
+    - name: "twitter"
+      url: "https://twitter.com/siddugan"
+    - name: "github"
+      url: "https://github.com/lordlabakdas"
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - name: "Projects"
+      url: "/projects/"
+      weight: 10
+    - name: "Photography"
+      url: "/photography/"
+      weight: 20
+    - name: "About"
+      url: "/about/"
+      weight: 30
+    - name: "Contact"
+      url: "/contact/"
+      weight: 40
