@@ -20,6 +20,8 @@ params:
   socialIcons:
     - name: "twitter"
       url: "https://twitter.com/lordulabakudas"
+    - name: "googlescholar"
+      url: "https://scholar.google.com/citations?user=IB6FpfAAAAAJ&hl=en"
     - name: "github"
       url: "https://github.com/lordlabakdas"
 
