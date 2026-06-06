@@ -8,9 +8,10 @@
 
 <div class="photography-grid">
   {{- range .Pages.ByDate.Reverse }}
+  {{- $page := . }}
   {{- with .Params.image }}
   <a href="{{ . }}" class="photo-item" target="_blank" rel="noopener noreferrer">
-    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+    <img src="{{ . }}" alt="{{ $page.Title }}" loading="lazy">
   </a>
   {{- end }}
   {{- end }}

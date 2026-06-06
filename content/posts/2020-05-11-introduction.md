@@ -14,7 +14,7 @@ Hi there!
 Documenting things that interest me.
 
 ## Twitter
-[My Twitter Bio](http://twitter.com/siddugan/)
+[My Twitter Bio](https://twitter.com/siddugan/)
 
 ## Photo
 Timestamp: August 24, 2013
