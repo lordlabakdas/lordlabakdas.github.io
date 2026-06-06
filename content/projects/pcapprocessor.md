@@ -1,6 +1,6 @@
 ---
 title: "pcapprocessor"
-date: 2024-01-01
+date: 2026-06-06
 description: "A Python toolkit for running ns-3 simulations, extracting TCP metrics from pcap traces, and generating publication-quality figures."
 tags: ["python", "networking", "open-source", "pcap", "ns-3"]
 ---
