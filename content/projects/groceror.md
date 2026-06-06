@@ -1,11 +1,13 @@
 ---
 title: "Groceror"
-date: 2024-01-01
-description: "Make your grocer a sorcerer — a full-stack grocery platform."
-tags: ["fullstack", "mobile", "microservices"]
+date: 2026-06-06
+description: "Make your grocer a sorcerer"
+tags: ["grocery", "inventory", "operational intelligence"]
 ---
 
-Groceror is a full-stack grocery platform built across multiple services — backend, frontend, mobile app, and supporting microservices.
+Groceror is an inventory and operations platform designed specifically for independent grocery stores and small supermarket operators. It helps store owners gain better visibility into their inventory, track stock levels in real time, monitor product movement, and make data-driven decisions to reduce waste and prevent stockouts.
+
+Beyond inventory management, Groceror aims to provide actionable business insights through analytics, sales trends, and operational reporting, helping neighborhood grocers operate with the efficiency and intelligence of larger retail chains. By combining inventory tracking, order management, and business analytics in a single platform, Groceror empowers grocery store owners to spend less time managing spreadsheets and more time growing their business.
 
 ## Repositories
 
