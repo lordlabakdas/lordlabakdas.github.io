@@ -1,0 +1,18 @@
+{{- define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <div class="post-description">{{ . }}</div>
+  {{- end }}
+</header>
+
+<div class="photography-grid">
+  {{- range .Pages.ByDate.Reverse }}
+  {{- with .Params.image }}
+  <a href="{{ . }}" class="photo-item" target="_blank" rel="noopener noreferrer">
+    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+  </a>
+  {{- end }}
+  {{- end }}
+</div>
+{{- end }}
