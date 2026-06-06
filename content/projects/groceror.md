@@ -13,4 +13,5 @@ Groceror is a full-stack grocery platform built across multiple services — bac
 - [groceror-fe](https://github.com/lordlabakdas/groceror-fe) — web frontend
 - [groceror-mobile](https://github.com/lordlabakdas/groceror-mobile) — mobile app
 - [groceror-users](https://github.com/lordlabakdas/groceror-users) — user management service
+- [groceror-orders](https://github.com/lordlabakdas/groceror-orders) — orders service
 - [groceror-email](https://github.com/lordlabakdas/groceror-email) — email service for transactional events (e.g. user registration)
