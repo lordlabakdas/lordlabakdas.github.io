@@ -1,8 +1,7 @@
 ---
 title: "About"
 url: "/about/"
-layout: "page"
-summary: "about"
+description: ""
 ---
 
 Hi, I'm Siddharth Gangadhar.
