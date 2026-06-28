@@ -3,6 +3,7 @@ title: "pcapprocessor"
 date: 2026-06-06
 description: "A Python toolkit for running ns-3 simulations, extracting TCP metrics from pcap traces, and generating publication-quality figures."
 tags: ["python", "networking", "open-source", "pcap", "ns-3"]
+github: "https://github.com/lordlabakdas/pcapprocessor"
 ---
 
 [pcapprocessor](https://github.com/lordlabakdas/pcapprocessor) is a Python toolkit that automates the full pipeline from ns-3 network simulation to publication-ready figures. Available on [PyPI](https://pypi.org/project/pcapprocessor/).

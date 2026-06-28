@@ -3,6 +3,7 @@ title: "Groceror"
 date: 2026-06-06
 description: "Make your grocer a sorcerer"
 tags: ["grocery", "inventory", "operational intelligence"]
+github: "https://github.com/lordlabakdas/groceror"
 ---
 
 Groceror is an inventory and operations platform designed specifically for independent grocery stores and small supermarket operators. It helps store owners gain better visibility into their inventory, track stock levels in real time, monitor product movement, and make data-driven decisions to reduce waste and prevent stockouts.
